@@ -1,4 +1,4 @@
-Contact Now to Setup New Your Own DIGIBYTE Mining Pool or Troubleshoot Existing Pool
+Contact Now to Setup New Your Own DIGIBYTE [sha256] Mining Pool or Troubleshoot Existing Pool
 ------------------------------------------------------------------------
 - [x]   **Email:**  _onlinebuybiz@gmail.com_
 - [x]  **Skype:**   add this email `onlinebuybiz@gmail.com` in your skype search and you will see **theonly-1**
@@ -11,7 +11,7 @@ Build Digibyte (ticker DGB) Cryptocurrency Mining Pool for Algorithm SHA256 and 
 
 We provide crypto mining pool creation services and take care of everything from scratch to finish that includes but not limited to 
 
-- Installation of Digibyte wallets and daemon for mining purpose
+- Installation of Digibyte wallets/daemon and other coins of your choice for mining purpose
 - Setting up, administer and prepare server with yiiimp mining software to enable DigiByte mining
 - Whether you want a private mining pool for personal mining or a mining pool to share with your friends or public
 - You can set zero fees or even charge a fees to your miners
