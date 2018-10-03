@@ -1,4 +1,4 @@
-What is DigiByte?
+How to set up Digibyte (ticker DGB) Mining Pool for algorithm SHA256 and others
 ----------------
 
 DigiByte (DGB) is a rapidly growing four year old decentralized global blockchain with a focus on cyber security, payments & secure communications technologies.
