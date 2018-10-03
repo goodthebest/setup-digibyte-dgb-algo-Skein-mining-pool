@@ -1,10 +1,13 @@
 How to set up Digibyte (ticker DGB) Mining Pool for algorithm SHA256 and others
 ----------------
 
-DigiByte (DGB) is a rapidly growing four year old decentralized global blockchain with a focus on cyber security, payments & secure communications technologies.
+We provide crypto mining pool creation services that includes but not limited to 
 
-For more information, as well as an immediately useable, binary version of
-the DigiByte Core software, see https://digibyte.io
+- Installation of Digibyte wallets and daemon for mining purpose
+- Setting up, administer and prepare server with yiiimp mining software to enable DigiByte mining
+- Whether you want a private mining pool for personal mining or a mining pool to share with your friends or public
+- You can set zero fees or even charge a fees to your miners
+
 
 DigiByte FAQ
 -------------
