@@ -8,6 +8,7 @@
 
 - [x]  **Telegram:** go to https://t.me/goodthebest **or** add `@goodthebest`
 
+- [x] **QQ:** 256447418 
 
 Build Digibyte (ticker DGB) Cryptocurrency Mining Pool for Algorithm SHA256 and others Coins
 ----------------
