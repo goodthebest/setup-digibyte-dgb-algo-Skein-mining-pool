@@ -1,3 +1,11 @@
+Contact now to setup your own Mining Pool for SHA256 coin Digibyte / DGB 
+------------------------------------------------------------------------
+-  **Email:**  _onlinebuybiz@gmail.com_
+- **Skype:**   add this email `onlinebuybiz@gmail.com` in your skype search and you will see **theonly-1**
+- **Discord:** `goodthebest#6606` Open your Discard and go to **Friends** and then **Add Friend** (add `goodthebest#6606`) and press **Send Friend Request** button.
+- **Telegram:** go to https://t.me/goodthebest or add `@goodthebest`
+
+
 How to set up Digibyte (ticker DGB) Mining Pool for algorithm SHA256 and others
 ----------------
 
@@ -11,12 +19,6 @@ We provide crypto mining pool creation services that includes but not limited to
 - It can be multi coin and multi algorithm mining pool as more coins can be added at any stage. 
 - We do privide maintence service although not much maintence is needed after pool is setup, if you do not touch any exisitng settings or any server failures are not happened.
 
-Contact now to setup your own Mining Pool for SHA256 coin Digibyte / DGB 
-------------------------------------------------------------------------
--  **Email:**  _onlinebuybiz@gmail.com_
-- **Skype:**   add this email `**onlinebuybiz@gmail.com**` in your skype search and you will see **theonly-1**
-- **Discord:** `goodthebest#6606` Open your Discard and go to **Friends** and then **Add Friend** (add `goodthebest#6606`) and press **Send Friend Request** button.
-- **Telegram:** go to https://t.me/goodthebest or add `@goodthebest`
 
 Launch Date: January 10th, 2014
 
