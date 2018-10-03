@@ -1,4 +1,4 @@
-Contact Now to Setup New Your Own DIGIBYTE [sha256] Mining Pool or Troubleshoot Existing Pool
+#Contact Now to Setup New Your Own DIGIBYTE [sha256] Mining Pool or Troubleshoot Existing Pool
 ------------------------------------------------------------------------
 - [x]   **Email:**  _onlinebuybiz@gmail.com_
 
@@ -26,3 +26,18 @@ We provide crypto mining pool creation services and take care of everything from
 How does it work?
 -----------
 We can work remotely using **TeamViewer** or **Anydesk** softwares, therefore, you do not need to provide us direct access to server. We can perform all  tasks in front of you.
+
+Sample frontend of yiimp software mining pool
+![yiimp installation, front page](https://www.sohowa.com/images/samplepool.jpg)
+
+Another sample page of yiimp software mining pool
+![yiimp installation](https://www.sohowa.com/images/samplepool2.jpg)
+
+Admin side of Yiimp Mining Pool - A
+![yiimp admin control section page 1](https://www.sohowa.com/images/admin1.jpg)
+
+Admin side of Yiimp Mining Pool - B
+![yiimp admin control section page 2](https://www.sohowa.com/images/admin2.jpg)
+
+Admin side of Yiimp Mining Pool - C
+![yiimp admin control section page 3](https://www.sohowa.com/images/admin3.jpg)
