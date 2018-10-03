@@ -6,7 +6,7 @@ Contact Now to Setup New Your Own DIGIBYTE [sha256] Mining Pool or Troubleshoot 
 
 - [x]  **Discord:** `goodthebest#6606` Open your Discard and go to **Friends** and then **Add Friend** (add `goodthebest#6606`) and press **Send Friend Request** button.
 
-- [x]  **Telegram:** go to https://t.me/goodthebest or add `@goodthebest`
+- [x]  **Telegram:** go to https://t.me/goodthebest **or** add `@goodthebest`
 
 
 Build Digibyte (ticker DGB) Cryptocurrency Mining Pool for Algorithm SHA256 and others Coins
