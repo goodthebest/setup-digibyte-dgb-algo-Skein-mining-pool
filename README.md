@@ -28,7 +28,7 @@ How does it work?
 We can work remotely using **TeamViewer** or **Anydesk** softwares, therefore, you do not need to provide us direct access to server. We can perform all  tasks in front of you.
 
 
-## Other Supported Algorithms Pool Can Work With
+## [Other Supported Algorithms Pool Can Work With](https://github.com/goodthebest/Install-Setup-Yiimp-Mining-Pool-Software-Ubuntu-Linux)
 ![yiimp algos](https://www.sohowa.com/images/yiimpalgo.JPG)
 -----------
 
