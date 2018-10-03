@@ -10,7 +10,7 @@
 
 - [x] **QQ:** 256447418 
 
-Build Digibyte (ticker DGB) Cryptocurrency Mining Pool for Algorithm SHA256 and others Coins
+Build Digibyte (ticker DGB) Cryptocurrency Mining Pool for Algorithm SHA256, Multi Coins & Multi Algo Mining Pool Software
 ----------------
 
 We provide crypto mining pool creation services and take care of everything from scratch to finish that includes but not limited to 
