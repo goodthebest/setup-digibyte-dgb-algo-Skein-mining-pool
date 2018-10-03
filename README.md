@@ -21,11 +21,11 @@ We provide crypto mining pool creation services and take care of everything from
 - You can use your own equipment ot mine such as CPUs, GPU rigs, ASIC machines or even pool can be made compatiable for **Nicehash** mining if you want to use their hashpower.
 - It can be multi coin and multi algorithm mining pool as more coins can be added at any stage. 
 - We do privide maintence service although not much maintence is needed after pool is setup, if you do not touch any exisitng settings or any server failures are not happened.
-- Troubleshooting of servers Linux/Ubuntu and existing pools, such as reject blocks, payouts not working, autoexchange, daemon and any other yiimp pool problems we can fix and make your pool running for smooth mining.
+- Troubleshooting of servers Linux/Ubuntu and existing pools, such as reject blocks, payouts not working, custom difficulty, vardiff, autoexchange, daemon and any other yiimp pool problems we can fix and make your pool running for smooth mining.
 
 How does it work?
 -----------
-We can work remotely using **TeamViewer** or **Anydesk** softwares, therefore, you do not need to provide us direct access to server. We can perform all  tasks in front of you.
+We can work remotely using **TeamViewer** or **Anydesk** softwares, therefore, you do not need to provide us direct access to server. We can perform all  tasks in front of you. To get a price quote please contact us using above given contact details, we can discuss in real time.
 
 
 ## [Other Supported Algorithms Pool Can Work With](https://github.com/goodthebest/Install-Setup-Yiimp-Mining-Pool-Software-Ubuntu-Linux)
