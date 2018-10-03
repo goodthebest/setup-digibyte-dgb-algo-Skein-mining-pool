@@ -25,7 +25,7 @@ We provide crypto mining pool creation services and take care of everything from
 - Troubleshooting of servers Linux/Ubuntu and existing pools, such as reject blocks, payouts not working, custom difficulty, vardiff, autoexchange, daemon and any other yiimp pool problems we can fix and make your pool running for smooth mining.
 - Any special features or customization also possible at additional cost.
 
-How does it work?
+How Does it Work?
 -----------
 We can work remotely using **TeamViewer** or **Anydesk** softwares, therefore, you do not need to provide us direct access to server. We can perform all  tasks in front of you. To get a price quote please contact us using above given contact details, we can discuss in real time.
 
