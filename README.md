@@ -1,9 +1,9 @@
 Contact Now to Setup New Your Own DIGIBYTE Mining Pool or Troubleshoot Existing Pool
 ------------------------------------------------------------------------
--  **Email:**  _onlinebuybiz@gmail.com_
-- **Skype:**   add this email `onlinebuybiz@gmail.com` in your skype search and you will see **theonly-1**
-- **Discord:** `goodthebest#6606` Open your Discard and go to **Friends** and then **Add Friend** (add `goodthebest#6606`) and press **Send Friend Request** button.
-- **Telegram:** go to https://t.me/goodthebest or add `@goodthebest`
+- [x]   **Email:**  _onlinebuybiz@gmail.com_
+- [x]  **Skype:**   add this email `onlinebuybiz@gmail.com` in your skype search and you will see **theonly-1**
+- [x]  **Discord:** `goodthebest#6606` Open your Discard and go to **Friends** and then **Add Friend** (add `goodthebest#6606`) and press **Send Friend Request** button.
+- [x]  **Telegram:** go to https://t.me/goodthebest or add `@goodthebest`
 
 
 Build Digibyte (ticker DGB) Cryptocurrency Mining Pool for Algorithm SHA256 and others Coins
