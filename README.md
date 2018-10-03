@@ -16,7 +16,7 @@ We provide crypto mining pool creation services and take care of everything from
 
 - Installation of Digibyte wallets/daemon and other coins of your choice for mining purpose
 - Setting up, administer and prepare server with yiiimp mining software to enable DigiByte mining
-- Whether you want a private mining pool for personal mining or a mining pool to share with your friends or public
+- Whether you want a solo, private mining pool for personal mining or a mining pool to share with your friends or public
 - You can set zero fees or even charge a fees to your miners
 - You can use your own equipment ot mine such as CPUs, GPU rigs, ASIC machines or even pool can be made compatiable for **Nicehash** mining if you want to use their hashpower.
 - It can be multi coin and multi algorithm mining pool as more coins can be added at any stage. 
