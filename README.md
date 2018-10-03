@@ -13,7 +13,9 @@ We provide crypto mining pool creation services that includes but not limited to
 
 Contact now to setup your own Mining Pool for SHA256 coin Digibyte / DGB 
 ------------------------------------------------------------------------
-- **Skype:**  onlinebuybiz@gmail.com add this email in your skype search and you will see **theonly-1**
+- **Skype:**  `onlinebuybiz@gmail.com` add this email in your skype search and you will see **theonly-1**
+- **Discord** goodthebest#6606 
+    Open your Discard and go to **Friends** and then **Add Friend** (add `goodthebest#6606`) and press **Send Friend Request** button.
 
 Launch Date: January 10th, 2014
 
