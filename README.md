@@ -27,6 +27,7 @@ How does it work?
 -----------
 We can work remotely using **TeamViewer** or **Anydesk** softwares, therefore, you do not need to provide us direct access to server. We can perform all  tasks in front of you.
 
+-----------
 Just a sample frontend, your pool will be similar to it but of course with your choice of coins and algos
 ![yiimp installation, front page](https://www.sohowa.com/images/samplepool.jpg)
 
