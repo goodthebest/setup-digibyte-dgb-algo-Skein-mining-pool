@@ -1,5 +1,5 @@
 #Contact Now to Setup New Your Own DIGIBYTE [sha256] Mining Pool or Troubleshoot Existing Pool
-------------------------------------------------------------------------
+
 - [x]   **Email:**  _onlinebuybiz@gmail.com_
 
 - [x]  **Skype:**   add this email `onlinebuybiz@gmail.com` in your skype search and you will see **theonly-1**
