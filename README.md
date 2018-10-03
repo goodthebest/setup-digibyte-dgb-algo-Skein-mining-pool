@@ -1,4 +1,4 @@
-# Contact Now to Setup New Your Own DIGIBYTE [sha256] Mining Pool or Troubleshoot Existing Pool
+# Contact Now to Setup New Your Own DIGIBYTE [Skein] Mining Pool or Troubleshoot Existing Pool
 
 - [x]   **Email:**  _onlinebuybiz@gmail.com_
 
@@ -10,7 +10,7 @@
 
 - [x] **QQ:** 256447418 
 
-Build Digibyte (ticker DGB) Cryptocurrency Mining Pool for Algorithm SHA256, Multi Coins & Multi Algo Mining Pool Software
+Build Digibyte (ticker DGB) Cryptocurrency Mining Pool for Algorithm Skein, Multi Coins & Multi Algo Mining Pool Software
 ----------------
 
 We provide crypto mining pool creation services and take care of everything from scratch to finish that includes but not limited to 
