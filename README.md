@@ -14,7 +14,7 @@ We provide crypto mining pool creation services that includes but not limited to
 Contact now to setup your own Mining Pool for SHA256 coin Digibyte / DGB 
 ------------------------------------------------------------------------
 -  **Email:**  _onlinebuybiz@gmail.com_
-- **Skype:**  `onlinebuybiz@gmail.com` add this email in your skype search and you will see **theonly-1**
+- **Skype:**   add this email `**onlinebuybiz@gmail.com**` in your skype search and you will see **theonly-1**
 - **Discord:** `goodthebest#6606` Open your Discard and go to **Friends** and then **Add Friend** (add `goodthebest#6606`) and press **Send Friend Request** button.
 - **Telegram:** go to https://t.me/goodthebest or add `@goodthebest`
 
