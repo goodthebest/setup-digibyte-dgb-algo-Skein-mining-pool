@@ -1,4 +1,4 @@
-Contact Now to Setup New Your Onw Mining Pool or Troubleshoot Existing Pool for SHA256 algo Coin Digibyte / DGB 
+Contact Now to Setup New Your Own DIGIBYTE Mining Pool or Troubleshoot Existing Pool
 ------------------------------------------------------------------------
 -  **Email:**  _onlinebuybiz@gmail.com_
 - **Skype:**   add this email `onlinebuybiz@gmail.com` in your skype search and you will see **theonly-1**
